@@ -6,5 +6,5 @@ L'objectif de ce projet d'électronique est de créer un robot détecteur de pr�
 
 ## Logigramme
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Zaki-Essay/Embedded-system/blob/main/Capture.PNG)
 
